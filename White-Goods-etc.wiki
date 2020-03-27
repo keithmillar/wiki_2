@@ -1,0 +1,16 @@
+==== Furniture ====
+
+- [ ] Fridge/Freezer
+- [ ] TV
+  - [ ] TV Stand
+  - [ ] Sound Bar
+Do we bring TV from home or by here?
+
+- [ ] Hi-fi
+  - [ ] Raspberry Pi
+  - [ ] Hat of some sort
+  - [ ] Lowe Speakers
+May need to look at lower powered speakers
+
+- [ ] Cooker
+- [ ] Gas Water Heaters

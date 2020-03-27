@@ -1,0 +1,9 @@
+==== Fence ====
+
+- [ ] Measure for Posts
+- [ ] Measure for Wire
+- [ ] Measure for Mesh
+- [ ] Number for Strengtheners
+- [ ] Caps for Posts
+- [ ] Level Ground
+- [ ] Do we need a row of block

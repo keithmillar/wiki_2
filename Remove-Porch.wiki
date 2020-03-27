@@ -1,0 +1,9 @@
+==== Remove Old Porch ====
+
+* [ ] Table
+* [ ] Wall
+* [ ] Floor Tiles?
+* [ ] Roof Panels
+* [ ] Wooden Frame
+* [ ] Supporting Pillars
+* [ ] Concrete Flower Beds
