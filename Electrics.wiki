@@ -1,2 +1,20 @@
 
 Do we install remote controlled switches?
+
+ - [ ] Earth Wire
+ - [ ] Neutral Wire
+ - [ ] Live Wire
+ - [ ] 2x Earth Rods
+ - [ ] Heavy Earth Wire
+ - [ ] Earth Rod Connectors
+ - [ ] Double Sockets
+ - [ ] Socket Boxes
+ - [ ] Conduit
+ - [ ] Conduit Joints
+ - [ ] Conduit Bends
+ - [ ] Consumer Unit
+ - [ ] Consumer Unit RCD's
+ - [ ] Consumer Unit MCB's
+ - [ ]
+
+

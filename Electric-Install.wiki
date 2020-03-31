@@ -1,0 +1,48 @@
+==== Kitchen ====
+
+ - [ ] Consumer Unit
+ - [ ] Fridge
+ - [ ] Sockets
+ - [ ] Lighting
+
+==== Bathroom ====
+
+ - [ ] Washing Machine
+ - [ ] Light Main
+ - [ ] Light Switch
+ - [ ] Sockets
+ - [ ] Gas water heater Ignighter
+ - [ ] Mirror with Light
+
+==== Master Bedroom ====
+
+ - [ ] 2 Sockets
+
+==== Living Room ====
+
+ - [ ] 3 Sockets
+ - [ ] allow for TV and Auxiliary equ
+
+
+==== Office/Bedroom ====
+
+ - [ ] 2 Sockets
+
+
+==== Bedroom/Store Room ====
+
+ - [ ] 2 Sockets
+
+
+==== Solar Room ====
+
+ - [ ] Charge Controller
+ - [ ] Inverter
+ - [ ] Batteries
+ - [ ] Generator
+
+==== Porch ====
+
+ - [ ] 2 Sockets
+ - [ ] Lighting
+
