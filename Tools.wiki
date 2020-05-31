@@ -1,16 +1,15 @@
 ==== Drill ====
-[[https://www.bauhaus.es/taladros-y-atornilladores-a-bateria/ryobi-one-taladro-atornillador-percutor-de-bateria-r18pd3-220s/p/25733293|Ryobi ONE+ R18PD3-220S]]
-1. Masionary Bits
-1. Screw bits
+- [ ] [[https://www.bauhaus.es/taladros-y-atornilladores-a-bateria/ryobi-one-taladro-atornillador-percutor-de-bateria-r18pd3-220s/p/25733293|Ryobi ONE+ R18PD3-220S]]
+- [ ] Masionary Bits
+- [ ] Screw bits
 
 ==== Tiling ====
 
-1. Tile Cutter
-2. Adhesive Aplacater
-3. Spacers
-4. Plum Line
+- [ ] Tile Cutter
+- [ ] Adhesive Aplacater
+- [ ] Spacers
+- [ ] Plum Line
 
 ==== Electrical ====
 
-1. Wire Strippers
-2. 
+- [ ] Wire Strippers

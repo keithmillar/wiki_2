@@ -1,9 +1,9 @@
 
 Do we install remote controlled switches?
 
- - [ ] Earth Wire
- - [ ] Neutral Wire
- - [ ] Live Wire
+ - [ ] 2.5m Earth Wire
+ - [ ] 2.5m Neutral Wire
+ - [ ] 2.5m Live Wire
  - [ ] 2x Earth Rods
  - [ ] Heavy Earth Wire
  - [ ] Earth Rod Connectors
@@ -15,8 +15,8 @@ Do we install remote controlled switches?
  - [ ] Consumer Unit
  - [ ] Consumer Unit RCD's
  - [ ] Consumer Unit MCB's
- - [ ]
-
+ - [ ] Screws and Rawplugs
+ - [ ] 
 
 **Blitzwolf Smart sockets**
 [[https://tech.scargill.net/more-blitzwolf-blitz-from-banggood/|Scargills Blog]]
