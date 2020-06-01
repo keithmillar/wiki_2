@@ -3,3 +3,4 @@
 - [ ] Generator
 - [ ] Move Wood
 - [ ] Wheel Barrow
+- [ ] Rubbish to Ecoparc
