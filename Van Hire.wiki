@@ -1,0 +1,5 @@
+- [ ] Fridge/Freezer
+- [ ] Cooker
+- [ ] Generator
+- [ ] Move Wood
+- [ ] Wheel Barrow

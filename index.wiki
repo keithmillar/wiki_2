@@ -1,5 +1,5 @@
 = Generated Links =
-<div class=date-stamp>Last Updated On 2020-05-31 Sun</div>
+<div class=date-stamp>Last Updated On 2020-06-01 Mon</div>
   - [[Build-Porch]]
   - [[Remove-Porch]]
   - [[Fence]]
@@ -10,3 +10,4 @@
   - [[White-Goods-etc]]
   - [[Calculate Usage Requirements]]
   - [[Tools]]
+  - [[Van Hire]]
