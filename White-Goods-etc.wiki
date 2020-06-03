@@ -13,4 +13,4 @@ Do we bring TV from home or by here?
 May need to look at lower powered speakers
 
 - [ ] Cooker
-- [ ] Gas Water Heaters
+- [ ] Gas Water Heater
