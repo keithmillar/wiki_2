@@ -1,6 +1,6 @@
 ==== Drill ====
 - [X] [[https://www.bauhaus.es/taladros-y-atornilladores-a-bateria/ryobi-one-taladro-atornillador-percutor-de-bateria-r18pd3-220s/p/25733293|Ryobi ONE+ R18PD3-220S]]
-- [ ] Masionary Bits
+- [X] Masionary Bits
 - [X] Screw bits
 
 ==== Tiling ====
