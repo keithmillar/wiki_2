@@ -1,11 +1,11 @@
 ==== Tuberias de Polibutileno ====
 
-* [ ] Qty 10 22x15x22
+* [X] Qty 10 22x15x22
 * [X] Qty 2 22x22 90 bends
-* [ ] Qty 6 flexible pipe
+* [X] Qty 6 flexible pipe
 * [X] Qty 18 mtrs 22mm pipe
 * [X] Qty 3 mtrs 15 mm pipe
-* [ ] Qty 10 in line valves
+* [X] Qty 10 in line valves
 * [X] Qty 20 15mm wall clips
 * [X] Qty 20 22mm double wall clips
 * [X] Qty 50 Anti Crush Inserts

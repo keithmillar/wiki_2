@@ -2,10 +2,12 @@
 
 ==== Remove Old Porch ====
 
-* [ ] Table
-* [ ] Wall
-* [ ] Floor Tiles?
-* [ ] Roof Panels
-* [ ] Wooden Frame
-* [ ] Supporting Pillars
-* [ ] Concrete Flower Beds
+* [X] Table
+* [X] Wall
+* [X] Floor Tiles?
+* [X] Roof Panels
+* [X] Wooden Frame
+* [X] Supporting Pillars
+* [X] Concrete Flower Beds
+
+Removed by Contractor

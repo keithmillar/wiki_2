@@ -8,8 +8,8 @@
 - [ ] Tile Cutter
 - [ ] Adhesive Aplacater
 - [ ] Spacers
-- [ ] Plum Line
+- [X] Plum Line
 
 ==== Electrical ====
 
-- [ ] Wire Strippers
+- [X] Wire Strippers

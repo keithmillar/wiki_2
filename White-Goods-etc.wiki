@@ -1,6 +1,6 @@
 ==== Furniture ====
 
-- [ ] Fridge/Freezer
+- [X] Fridge/Freezer
 - [ ] TV
   - [ ] TV Stand
   - [ ] Sound Bar
@@ -12,5 +12,5 @@ Do we bring TV from home or by here?
   - [ ] Lowe Speakers
 May need to look at lower powered speakers
 
-- [ ] Cooker
-- [ ] Gas Water Heater
+- [X] Cooker
+- [X] Gas Water Heater

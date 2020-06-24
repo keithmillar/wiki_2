@@ -1,6 +1,6 @@
-- [ ] Fridge/Freezer
-- [ ] Cooker
-- [ ] Generator
+- [X] Fridge/Freezer
+- [X] Cooker
+- [X] Generator
 - [ ] Move Wood
 - [ ] Wheel Barrow
 - [ ] Rubbish to Ecoparc
