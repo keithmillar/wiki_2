@@ -8,11 +8,11 @@
 
 ==== Equiment ====
 
- - [ ] Inverter
- - [ ] Charge Controller
- - [ ] Battries
- - [ ] PV Panels
- - [ ] Generator
+ - [X] Inverter
+ - [X] Charge Controller
+ - [X] Battries
+ - [X] PV Panels
+ - [X] Generator
 
 ==== Links to possible systems ====
 

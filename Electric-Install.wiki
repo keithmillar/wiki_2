@@ -11,7 +11,7 @@
  - [ ] Light Main
  - [ ] Light Switch
  - [ ] Sockets
- - [ ] Gas water heater Ignighter
+ - [X] Gas water heater Ignighter
  - [ ] Mirror with Light
 
 ==== Master Bedroom ====
